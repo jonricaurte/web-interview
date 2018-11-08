@@ -1,0 +1,10 @@
+.PerformerList {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.PerformerList-item {
+  flex: 1 1;
+  min-width: 33.33%;
+  max-width: 33.33%;
+}

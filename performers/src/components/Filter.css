@@ -1,0 +1,9 @@
+.Filter-text,
+.Filter-dropdown {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.Filter-text {
+  margin-right: 10px;
+}
